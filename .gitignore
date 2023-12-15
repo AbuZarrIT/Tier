@@ -10,7 +10,7 @@
 
 /public
 /src
-build/.
+build/
 .gitignore
 # misc
 .DS_Store
