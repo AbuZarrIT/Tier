@@ -1,0 +1,7 @@
+.MainPage-form{
+    display: flex;
+    padding: 30px 0 50px 0;
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+}

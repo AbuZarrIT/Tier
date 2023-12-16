@@ -1,0 +1,25 @@
+.MainPage{
+   padding: 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   min-height: 900px;
+   margin-top: 20px;
+}
+.MainPage-list-btn{
+    padding: 0;
+    margin: 0;
+    min-width: 300px;
+    min-height: 180px;
+    background-color: transparent;
+    border: 2px solid teal;
+    border-radius: 15px;
+    background-size:cover;
+}
+.MainPage-list{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}

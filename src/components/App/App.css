@@ -1,0 +1,8 @@
+@import-normalize;
+.App{
+    background-image: url('/public/background/bg.jpg');
+    max-width: 500px;
+    position: absolute;
+    width: 100%;
+    
+}
